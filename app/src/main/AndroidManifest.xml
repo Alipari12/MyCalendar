@@ -23,6 +23,7 @@
         </activity>
         <activity android:name=".CalendarPage" />
         <activity android:name=".TaskMaker" />
+        <activity android:name=".ListTasks"></activity>
     </application>
 
 </manifest>
